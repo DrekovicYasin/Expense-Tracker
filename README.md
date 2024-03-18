@@ -1,1 +1,1 @@
-<img src="[https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://github.com/DrekovicYasin/Expense-Tracker/assets/106954743/0f9cbce5-fc6b-433a-b9b2-3ca7ee46f6c7)" width="200" height="400" />
+
