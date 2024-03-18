@@ -56,7 +56,7 @@ struct NewExpenseView: View {
                             
                             TextField("0.0", value: $amount, formatter: numberFormatter)
                                 .keyboardType(.decimalPad)
-
+                            
                         }
                         .padding(.horizontal, 15)
                         .padding(.vertical, 12)
