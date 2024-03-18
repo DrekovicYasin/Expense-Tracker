@@ -1,1 +1,5 @@
-
+![Simulator Screenshot - iPhone 15 Pro - 2024-03-18 at 13 20](https://github.com/DrekovicYasin/Expense-Tracker/assets/106954743/515ca31e-e020-4680-be4b-86c656b5fc4a)
+![Simulator Screenshot - iPhone 15 Pro - 2024-03-18 at 13 20-1](https://github.com/DrekovicYasin/Expense-Tracker/assets/106954743/9592eb01-0288-4978-a14e-fb908f362c2d)
+![Simulator Screenshot - iPhone 15 Pro - 2024-03-18 at 13 20-2](https://github.com/DrekovicYasin/Expense-Tracker/assets/106954743/5d379129-94e5-4fbf-9656-328bafed79fd)
+![Simulator Screenshot - iPhone 15 Pro - 2024-03-18 at 13 20-3](https://github.com/DrekovicYasin/Expense-Tracker/assets/106954743/b46f9951-46ef-43f2-89ac-2478855619aa)
+![Simulator Screenshot - iPhone 15 Pro - 2024-03-18 at 13 21](https://github.com/DrekovicYasin/Expense-Tracker/assets/106954743/c1baef12-b987-4c3e-8a71-5ca5f921bf8a)
