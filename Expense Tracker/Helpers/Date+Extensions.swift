@@ -18,7 +18,7 @@ extension Date {
     
     var endOfMonth: Date {
         let calendar = Calendar.current
- 
+        
         return calendar.date(byAdding: .init(month: 1, minute: -1), to: self.startOfMonth) ?? self
     }
 }

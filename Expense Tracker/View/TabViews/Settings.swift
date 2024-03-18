@@ -13,7 +13,7 @@ struct Settings: View {
     /// App Lock Properties
     @AppStorage("isAppLockEnabled") private var isAppLockEnabled: Bool = false
     @AppStorage("lockWhenAppGoesBackground") private var lockWhenAppGoesBackground: Bool = false
-
+    
     var body: some View {
         NavigationStack {
             List {
@@ -26,7 +26,7 @@ struct Settings: View {
                     
                     if isAppLockEnabled {
                         Toggle("Lock When App Goes Background", isOn: $lockWhenAppGoesBackground)
-
+                        
                     }
                 }
                 

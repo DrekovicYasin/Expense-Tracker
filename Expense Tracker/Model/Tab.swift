@@ -12,7 +12,7 @@ enum Tab: String {
     case search = "Filter"
     case charts = "Charts"
     case settings = "Settings"
-
+    
     
     @ViewBuilder
     var tabContent: some View {
